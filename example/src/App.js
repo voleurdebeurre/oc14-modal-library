@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import Modal from 'oc14-modal-library'
-import 'oc14-modal-library/dist/index.css'
 
 const App = () => {
   const [showModal, setShowModal] = useState(false)
