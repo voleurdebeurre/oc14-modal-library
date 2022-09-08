@@ -1,8 +1,8 @@
 # oc14-modal-library
 
-> A simple react modal library (oc 14)
-> It will provide you with a simple black backdrop and a ```div``` to place custom content into.
-> As well as close button to hide the modal
+> A simple react modal library (oc 14)<br>
+> It will provide you with a simple black backdrop and a ```div``` to place custom content into.<br>
+> As well as close button to hide the modal<br>
 
 [![NPM](https://img.shields.io/npm/v/oc14-modal-library.svg)](https://www.npmjs.com/package/oc14-modal-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
