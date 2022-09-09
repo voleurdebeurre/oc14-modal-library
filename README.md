@@ -15,7 +15,7 @@ npm install --save oc14-modal-library
 ## Usage
 ```jsx
 // Import the library into the component file that needs to contain the modal
-import MyComponent from 'oc14-modal-library'
+import Modal from 'oc14-modal-library'
 // Simple css to display the backdrop and close button styles
 import 'oc14-modal-library/dist/index.css'
 
